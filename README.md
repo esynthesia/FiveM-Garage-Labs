@@ -9,5 +9,5 @@ A FiveM resource package containing custom vehicle files, including metadata con
 
 ## Installation
 1. Download or clone this repository into your server's `resources` directory.
-2. Add `ensure fivem-custom-vehicles` to your `server.cfg` file.
+2. Add `ensure [Vehicles]` to your `server.cfg` file.
 3. Restart your server.
